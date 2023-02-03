@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "63dc756da5c14aa5abf0423a"
+  },
+  "name": "Polarwind",
+  "species": "Polar Bear",
+  "location": "Arctic",
+  "wantedFor": "Not hibernating",
+  "client": "Sabertooth",
+  "reward": 10000,
+  "captured": true
+},{
+  "_id": {
+    "$oid": "63dc756da5c14aa5abf0423b"
+  },
+  "name": "Wrecking Crows",
+  "species": "Crow",
+  "location": "Grasslands",
+  "wantedFor": "Cawing too loudly",
+  "client": "Red wolf",
+  "reward": 40000,
+  "captured": true
+},{
+  "_id": {
+    "$oid": "63dc756da5c14aa5abf0423d"
+  },
+  "name": "Grim Panda",
+  "species": "Giant Panda",
+  "location": "Temperate forest",
+  "wantedFor": "Eating all the bamboo",
+  "client": "Red wolf",
+  "reward": 5000,
+  "captured": true
+}]
